@@ -1,0 +1,5 @@
+= LogWatcher
+
+Just add 'mount LogWatcher::engine, :at => "/log_watcher"
+
+This project rocks and uses MIT-LICENSE.
